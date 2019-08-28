@@ -51,7 +51,7 @@
 
 ---
 ### 畫面
-![iamge](public/images/screenshot.PNG)
+![iamge](public/images/screenshot.png)
 
 
 ---
