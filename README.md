@@ -50,6 +50,41 @@
 
 
 ---
+### 使用說明
+
+目前僅能使用以下帳號密碼登入 
+```
+
+   ----------Tony----------
+   email: tony@stark.com
+   password: iamironman
+   ========================
+ 
+   ---------Steve----------
+   email: captain@hotmail.com
+   password: icandothisallday
+   ========================
+
+   ---------Peter----------
+   email: peter@parker.com
+   password: enajyram
+   ========================
+
+   ---------Natasha--------
+   email: natasha@gamil.com
+   password: *parol#@$!
+   ========================
+
+   ----------Nick----------
+   email: nick@shield.com
+   password: password
+   ========================
+```
+歡迎使用以上帳號做登入練習  
+有朝一日你也能加入復仇者聯盟的
+
+
+---
 ### 畫面
 ![iamge](public/images/screenshot.png)
 
