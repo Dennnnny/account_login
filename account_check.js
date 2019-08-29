@@ -1,11 +1,3 @@
-function createArray(obj, text) {
-  let newArray = []
-  for (i = 0; i < obj.length; i++) {
-    let item = obj[i][text]
-    newArray.push(item)
-  }
-  return newArray
-}
 
 
 function checkAccount(account) {
@@ -39,8 +31,9 @@ function checkAccount(account) {
 
   let message = ''
   const pattern = new RegExp('^.*@.*\..*$')
-  const emailAll = createArray(users, 'email')
+  const emailAll = users.map(user => user.email)
 
+  console.log(emailAll)
   //檢查帳號長度 =0 : 請輸入email
   if (account.email.length === 0) {
     return message = `請輸入email`

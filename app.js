@@ -32,5 +32,5 @@ app.post('/', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`it's now running on https://localhost:${port}`)
+  console.log(`it's now running on http://localhost:${port}`)
 })
